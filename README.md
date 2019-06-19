@@ -5,7 +5,7 @@ El propósito de esta aplicación es gestionar productos y poder eliminarlos.
 
 El sistema consta de los siguientes módulos:
 
-Aplicación, donde ocurren los eventos de JavaScript, manipulo el DOM en base a los objetos creados.
+Módulo donde ocurren los eventos de JavaScript, manipulo el DOM en base a los objetos creados.
 
              Nombre del archivo: app.js
     
