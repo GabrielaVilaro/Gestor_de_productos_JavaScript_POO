@@ -1,7 +1,7 @@
 # Proyecto_Gestor_de_productos_JS
 Gestor de productos con JavaScript, con programación orientada a objetos.
 
-El proósito de esta aplicación es gestionar productos y poder eliminarlos.
+El propósito de esta aplicación es gestionar productos y poder eliminarlos.
 
 El sistema consta de los siguientes módulos:
 
